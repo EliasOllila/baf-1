@@ -19,6 +19,8 @@ public class Main {
         if(shining==true && (time<=16 && time>=10))
             System.out.println("Please use sunscreen");
 
+
+        //hw3
         boolean check;
         int a=20;
         int b=11;
