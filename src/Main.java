@@ -29,7 +29,7 @@ public class Main {
             System.out.println(check=true);
         }
         else
-            System.out.println(check=true);
+            System.out.println(check=false);
 
 
         //hw4
