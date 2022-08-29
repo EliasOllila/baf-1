@@ -26,10 +26,14 @@ public class Main {
         int b=11;
         if(a%10==b%10)
         {
-            System.out.println(check=true);
+            check=true;
+            System.out.println(check);
         }
-        else
-            System.out.println(check=false);
+        else{
+            check=false;
+            System.out.println(check);
+        }
+
 
 
         //hw4
